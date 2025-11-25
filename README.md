@@ -6,12 +6,19 @@ This plugin removes hover link URLs for a cleaner UI in WordPress.
 2. Activate via WordPress dashboard.
 
 === Hide Hover Link ===
+
 Contributors: Saya Victor
+
 Tags: links, hover, elementor, javascript
+
 Requires at least: 5.0
+
 Tested up to: 6.6
+
 Stable tag: 2.0
+
 License: GPLv2 or later
+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Removes href from all links to hide hover URL and keeps them clickable via JavaScript.
