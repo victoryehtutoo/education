@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Hide Hover Link
-Plugin URI: https://alintagar.com/saya-victor-ye-htut-oo/
+Plugin URI: https://github.com/victoryehtutoo/education
 Description: Removes href from all links to hide hover URL and keeps them clickable via JavaScript.
 Version: 2.0
 Author: Saya Victor
-Author URI: https://alintagar.com/saya-victor-ye-htut-oo/
+Author URI: https://github.com/victoryehtutoo
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: hide-hover-link
